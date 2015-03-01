@@ -1,0 +1,52 @@
+#wrapper{
+	width: 80%;
+	margin: auto;
+
+}
+header{
+}
+#container{
+	
+	border-left: 1px solid gray;
+	border-right: 1px solid gray;
+}
+h3{
+	text-align: center;
+}
+li{
+	display: inline;
+}
+
+.input-error {
+	border: 1px solid red !important;
+}
+
+.description{
+	width: 90%;
+	margin:auto;
+}
+
+.date{
+	margin-right: 45px;
+}
+
+img, iframe{
+	margin: 15px;
+}
+.relatedToTheEvent{
+	margin-left: 50px;
+	margin-top: 25px
+}
+#map-canvas {
+    height: 500px;
+    width: 90%;
+    margin: auto;
+    padding: 0px
+}
+.control{
+	display: inline;
+}
+
+ tr>td{
+    width: 80%;
+}
